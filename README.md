@@ -1,2 +1,4 @@
 # ChamaBot
-My Discord bot.
+Le bot officiel de https://discord.gg/HJA6t6e !
+
+LE CODE SOURCE SERA BIENTOT DISPONIBLE ICI, JE TIENS JUSTE A DONNER UN CODE PROPRE AUX DEVELOPPEURS lol
