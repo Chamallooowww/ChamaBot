@@ -1,0 +1,2 @@
+# ChamaBot
+My Discord bot.
